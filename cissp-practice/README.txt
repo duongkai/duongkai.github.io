@@ -9,8 +9,7 @@ Downloaded on 2026-11-15. Original author: kazuki-hanai.
 Includes all 1,000 practice questions, 9 study chapters, and browser icons.
 index.html is the English edition: the interface, all 1,000 questions, answer
 choices, explanations, and 9 study chapters have been translated to English.
-index-ja.html preserves the unchanged Japanese original, also available through
-the English page's "Original Japanese" link.
+index-ja.html preserves the unchanged Japanese original.
 
 The study content was translated using Google Translate, a local MADLAD model,
 and AI translation agents. Interface wording and selected terminology

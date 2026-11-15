@@ -7,7 +7,7 @@ An English, offline snapshot of [kazuki-hanai's CISSP study app](https://kazuki-
 Download this repository, extract it, and open **index.html** in your browser. No installation, server, or internet connection is required for studying.
 
 - **index.html**: English interface, questions, answer choices, explanations, and textbook.
-- **index-ja.html**: unchanged Japanese original, also linked from the English page.
+- **index-ja.html**: unchanged Japanese original.
 - **README.txt**: detailed offline-use and progress-transfer instructions.
 
 External reference links require an internet connection. This is a snapshot downloaded on November 15, 2026; it does not update automatically.
