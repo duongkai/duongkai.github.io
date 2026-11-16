@@ -22,7 +22,7 @@ To transfer progress from the original Japanese website, export it from **履歴
 
 Original app and Japanese study material: **kazuki-hanai**, available at the [original website](https://kazuki-hanai.github.io/cissp-practice/).
 
-The English edition uses Google Translate, a local MADLAD model, and AI translation agents, with separate review of interface wording and selected terminology. It is an AI-assisted translation, not an official or fully human-reviewed English edition. The Japanese original is retained for comparison.
+The English edition uses a local PLaMo translation model with Japanese–English terminology from the ISC2 Japan Chapter CISSP and CCSP glossaries. It is an AI-assisted translation, not an official or fully human-reviewed English edition. The Japanese original is retained for comparison.
 
 ## Validation
 
